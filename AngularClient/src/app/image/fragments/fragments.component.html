@@ -1,0 +1,6 @@
+<div>
+    <h4>{{numOfFragments}} image(s) with size ({{fragments[0].width}}x{{fragments[0].height}})</h4>
+    <div class="scrlollBox">
+        <img *ngFor="let fragment of fragments"  [src]="fragment.url" style="margin-right:5px;" />
+    </div>
+</div>

@@ -1,0 +1,6 @@
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\bin\Debug\WebApiServer.Services.dll
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\bin\Debug\WebApiServer.Services.pdb
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\obj\Debug\WebApiServer.Services.csprojAssemblyReference.cache
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\obj\Debug\WebApiServer.Services.csproj.CoreCompileInputs.cache
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\obj\Debug\WebApiServer.Services.dll
+C:\Users\lorgo\Desktop\Study\Работа\FragmentsOfImage\WebApiServer\WebApiServer.Services\obj\Debug\WebApiServer.Services.pdb
